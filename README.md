@@ -1,4 +1,5 @@
-# 📊 HR_Data_Analytics-Dashboard
+# 📊 HR_Data_Analytics Dashboard
+
 The HR Data Analytics Dashboard is an interactive Excel-based tool that provides a comprehensive overview of workforce metrics such as total employees, attrition, demographics, job roles, and education levels. It helps HR professionals track employee trends, identify high attrition areas, and make informed, data-driven decisions to improve employee retention and organizational planning.
 
 ## 📌 Project Title
